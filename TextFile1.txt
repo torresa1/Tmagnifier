@@ -1,0 +1,174 @@
+Testing collection of viralTransformer
+viralTransformer 1:
+Guess 0 gets: 0
+Guess 1 gets: 1
+Guess 2 gets: 8
+Guess 3 gets: 3
+Guess 4 gets: 0
+
+Number of Guesses: 5
+Number of Low Guesses: 4
+Number of High Guesses: 0
+
+
+viralTransformer 2:
+Guess 0 gets: 0
+Guess 1 gets: 1
+Guess 2 gets: 10
+Guess 3 gets: 3
+Guess 4 gets: 20
+Guess 5 gets: 0
+
+Number of Guesses: 6
+Number of Low Guesses: 5
+Number of High Guesses: 0
+
+
+viralTransformer 3:
+Guess 0 gets: 0
+Guess 1 gets: 1
+Guess 2 gets: 12
+Guess 3 gets: 3
+Guess 4 gets: 24
+Guess 5 gets: 5
+Guess 6 gets: 0
+
+Number of Guesses: 7
+Number of Low Guesses: 6
+Number of High Guesses: 0
+
+
+Testing collection of accelerateTransformer
+accelerateTransformer 1:
+Guess 0 gets: 10
+Guess 1 gets: 15
+Guess 2 gets: 20
+Guess 3 gets: 25
+Guess 4 gets: 0
+
+Number of Guesses: 5
+Number of Low Guesses: 4
+Number of High Guesses: 0
+
+
+accelerateTransformer 2:
+Guess 0 gets: 18
+Guess 1 gets: 27
+Guess 2 gets: 36
+Guess 3 gets: 45
+Guess 4 gets: 54
+Guess 5 gets: 63
+Guess 6 gets: 72
+Guess 7 gets: 81
+Guess 8 gets: 0
+
+Number of Guesses: 9
+Number of Low Guesses: 8
+Number of High Guesses: 0
+
+
+accelerateTransformer 3:
+Guess 0 gets: 20
+Guess 1 gets: 30
+Guess 2 gets: 40
+Guess 3 gets: 50
+Guess 4 gets: 60
+Guess 5 gets: 70
+Guess 6 gets: 80
+Guess 7 gets: 90
+Guess 8 gets: 100
+Guess 9 gets: 0
+
+Number of Guesses: 10
+Number of Low Guesses: 9
+Number of High Guesses: 0
+
+
+Testing collection of transformer
+transformer 1:
+Guess 0 gets: 2
+Guess 1 gets: 1
+Guess 2 gets: 0
+
+Number of Guesses: 3
+Number of Low Guesses: 2
+Number of High Guesses: 0
+
+
+transformer 2:
+Guess 0 gets: 4
+Guess 1 gets: 3
+Guess 2 gets: 6
+Guess 3 gets: 1
+Guess 4 gets: 0
+
+Number of Guesses: 5
+Number of Low Guesses: 4
+Number of High Guesses: 0
+
+
+transformer 3:
+Guess 0 gets: 6
+Guess 1 gets: 5
+Guess 2 gets: 8
+Guess 3 gets: 3
+Guess 4 gets: 10
+Guess 5 gets: 1
+Guess 6 gets: 0
+
+Number of Guesses: 7
+Number of Low Guesses: 6
+Number of High Guesses: 0
+
+
+Testing collection of magnifier
+magnifier 1 returns: 35
+turning off magnifier 1
+returns -1 when off
+
+magnifier 2 returns: 27
+turning off magnifier 2
+returns -1 when off
+
+magnifier 3 returns: 24
+turning off magnifier 3
+returns -1 when off
+
+Testing collection of Tmagnifier
+Tmagnifier 1:
+Guess 0 gets: 16
+Guess 1 gets: 8
+Guess 2 gets: 0
+
+Number of Guesses: 3
+Number of Low Guesses: 2
+Number of High Guesses: 0
+
+
+Tmagnifier 2:
+Guess 0 gets: 42
+Guess 1 gets: 36
+Guess 2 gets: 54
+Guess 3 gets: 24
+Guess 4 gets: 66
+Guess 5 gets: 12
+Guess 6 gets: 78
+Guess 7 gets: 0
+
+Number of Guesses: 8
+Number of Low Guesses: 7
+Number of High Guesses: 0
+
+
+Tmagnifier 3:
+Guess 0 gets: 12
+Guess 1 gets: 9
+Guess 2 gets: 18
+Guess 3 gets: 3
+Guess 4 gets: 0
+
+Number of Guesses: 5
+Number of Low Guesses: 4
+Number of High Guesses: 0
+
+
